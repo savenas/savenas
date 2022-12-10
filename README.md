@@ -1,4 +1,4 @@
 - 👋 Sveiki, esu Tomas Savėnas;
-- 🌱 auginu įmonę Atakos vektorius;
+- 🌱 Auginu įmonę Atakos vektorius;
 - 💼 Turiu virš 7 m. patirties IT saugume;
 - 😎 Esu ULO pilotas ir Lietuvos TryHackMe lyderis.
