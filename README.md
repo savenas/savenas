@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @savenas
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning web security 
-- 📫 reach me on twitter @tomas_savenas 
+- 👋 Sveiki, esu Tomas Savėnas;
+- 🌱 auginu įmonę Atakos vektorius;
+- 💼 Turiu virš 7 m. IT saugumo patirties;
+- 😎 Esu ULO pilotas ir Lietuvos TryHackMe lyderis.
