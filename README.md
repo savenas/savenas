@@ -1,4 +1,3 @@
 - 👋 Sveiki, esu Tomas Savėnas;
-- 🌱 Auginu įmonę Atakos vektorius;
-- 💼 Dešimtmetis+ patirties IT saugume;
-- 😎 Esu ULO pilotas
+- 💼 Dešimtmetis+ Web saugume;
+- WAF ir DAST;
