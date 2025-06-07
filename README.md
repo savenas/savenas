@@ -1,3 +1,3 @@
 - 👋 Sveiki, esu Tomas Savėnas;
 - 💼 Dešimtmetis+ Web saugume;
-- WAF ir DAST;
+- 🔐 WAF ir DAST;
